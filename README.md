@@ -66,7 +66,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Denis Salamanca**
-is a technology enthusiast living in Costa Rica with his fianc�e and step-son. He has been working in IT since he was 20 and has worked for the most influential and leading companies in the industry, including VMware, Microsoft, and Hewlett-Packard Enterprise. He currently holds more than 10 technical certifications across different fields, such as cloud, storage, Linux, Docker, and virtualization. He has also participated in the development of Linux certifications and is part of the CompTIA Linux Subject Matter Experts and Technical Advisory Committee.
+is a technology enthusiast living in Costa Rica with his fiance and step-son. He has been working in IT since he was 20 and has worked for the most influential and leading companies in the industry, including VMware, Microsoft, and Hewlett-Packard Enterprise. He currently holds more than 10 technical certifications across different fields, such as cloud, storage, Linux, Docker, and virtualization. He has also participated in the development of Linux certifications and is part of the CompTIA Linux Subject Matter Experts and Technical Advisory Committee.
 His love for technology has driven him to work in different positions and fields across his career, and this has helped him to develop an understanding about the different points of view that a technical solution requires. 
 
 **Esteban Flores**
