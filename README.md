@@ -53,7 +53,7 @@ With the following software and hardware list you can run all code files present
 |  | AWS CloudTrail |
 |  | AWS GuardDuty, AWS CloudGoat |
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http:/?/?www.?packtpub.?com/?sites/?default/?files/).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](http://www.packtpub.com/sites/default/files/downloads/9781789136722_ColorImages.pdf).
 
 ### Related products
 * Kali Linux 2018: Windows Penetration Testing - Second Edition [[Packt]](https://www.packtpub.com/networking-and-servers/kali-linux-2018-windows-penetration-testing-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788997461 ) [[Amazon]](https://www.amazon.com/dp/1788997468)
