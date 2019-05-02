@@ -44,23 +44,23 @@ This intermediate-level book is for Linux system administrators, Linux support e
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-19).
 ### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-| 1-19 | Amazon EC2 |  |
-|  | Amazon S3 |  |
-|  | Amazon Route53 |  |
-|  | Amazon SES |  |
-|  | Amazon RDS |  |
-|  | AWS IAM |  |
-|  | AWS Lambda |  |
-|  | AWS CloudFormation |  |
-|  | AWS CloudTrail |  |
-|  | AWS GuardDuty, AWS CloudGoat |  |
+| Chapter | Software required | 
+| -------- | ------------------------------------ |
+| 1-19 | Amazon EC2 |
+|  | Amazon S3 |
+|  | Amazon Route53 |
+|  | Amazon SES |
+|  | Amazon RDS |
+|  | AWS IAM |
+|  | AWS Lambda |
+|  | AWS CloudFormation |
+|  | AWS CloudTrail |
+|  | AWS GuardDuty, AWS CloudGoat |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789534108_ColorImages.pdf?).
 
 ### Related products
-*  [[Packt]](https://prod.packtpub.com/in/virtualization-and-cloud/hands-linux-administration-azure?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789130964)
+* Hands-On Linux Administration on Azure  [[Packt]](https://prod.packtpub.com/in/virtualization-and-cloud/hands-linux-administration-azure?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1789130964)
 
 * Linux Administration Cookbook  [[Packt]](https://prod.packtpub.com/in/virtualization-and-cloud/linux-administration-cookbook?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/178934252X)
 
