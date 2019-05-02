@@ -7,7 +7,7 @@ This is the code repository for [Hands-On AWS Penetration Testing with Kali Linu
 **Set up a virtual lab and pentest major AWS services, including EC2, S3, Lambda, and CloudFormation**
 
 ## What is this book about?
-The cloud is taking over the IT industry. Any organization housing a large amount of data or a large infrastructure has started moving cloud-ward � and AWS rules the roost when it comes to cloud service providers, with its closest competitor having less than half of its market share. This highlights the importance of security on the cloud, especially on AWS. While a lot has been said (and written) about how cloud environments can be secured, performing external security assessments in the form of pentests on AWS is still seen as a dark art.
+The cloud is taking over the IT industry. Any organization housing a large amount of data or a large infrastructure has started moving cloud-ward and AWS rules the roost when it comes to cloud service providers, with its closest competitor having less than half of its market share. This highlights the importance of security on the cloud, especially on AWS. While a lot has been said (and written) about how cloud environments can be secured, performing external security assessments in the form of pentests on AWS is still seen as a dark art.
 
 This book covers the following exciting features:
 Familiarize yourself with and pentest the most common external-facing AWS services 
