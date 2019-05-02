@@ -1,0 +1,14 @@
+<user-mapping>
+    <authorize username="USERNAME" password="PASSWORD">
+        <connection name="RDP Connection">
+            <protocol>rdp</protocol>
+            <param name="hostname">localhost</param>
+            <param name="port">3389</param>
+        </connection>
+        <connection name="SSH Connection">
+            <protocol>ssh</protocol>
+            <param name="hostname">localhost</param>
+            <param name="port">22</param>
+        </connection>
+    </authorize>
+</user-mapping>
